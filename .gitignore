@@ -1,20 +1,5 @@
-# Secrets and local environment
+node_modules/
 .env
 .env.*
-!.env.example
-*.pem
-*.key
-secrets/
-credentials/
-
-# Dependencies and build output
-node_modules/
-dist/
-build/
-coverage/
-
-# OS/editor files
 .DS_Store
-Thumbs.db
-.vscode/
-.idea/
+dist/
